@@ -7,12 +7,12 @@
       "create_function_url": true,
       "description": null,
       "environment_variables": {
-        "IMAGES_BUCKET": "vaishnavi-m-25"
+        "IMAGES_BUCKET": "vaishnavi-25"
       },
       "event_source_arn": null,
       "event_source_mapping": [],
       "filename": null,
-      "function_name": "hello-kitty-function-Vaishnavi-M-25",
+      "function_name": "hello-kitty-function-vaishnavi-25",
       "handler": "main.lambda_handler",
       "log_format": null,
       "log_group_name": "${module.appcd_86ec452a-770a-59bf-87dd-67ed883e25e5.name}",
@@ -32,7 +32,7 @@
     },
     "appcd_551e1d2b-88ec-5406-87cf-c51521bbe894": {
       "block_public_access": true,
-      "bucket_name": "vaishnavi-m-25",
+      "bucket_name": "vaishnavi-25",
       "bucket_policy": "",
       "enable_versioning": true,
       "enable_website_configuration": false,
