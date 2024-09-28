@@ -32,7 +32,7 @@
     },
     "appcd_551e1d2b-88ec-5406-87cf-c51521bbe894": {
       "block_public_access": true,
-      "bucket_name": "vaishnavi-25",
+      "bucket_name": "vaishnavi25",
       "bucket_policy": "",
       "enable_versioning": true,
       "enable_website_configuration": false,
