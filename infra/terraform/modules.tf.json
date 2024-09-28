@@ -7,12 +7,12 @@
       "create_function_url": true,
       "description": null,
       "environment_variables": {
-        "IMAGES_BUCKET": "vaishnavi-25"
+        "IMAGES_BUCKET": "vaishnavi25"
       },
       "event_source_arn": null,
       "event_source_mapping": [],
       "filename": null,
-      "function_name": "hello-kitty-function-vaishnavi-25",
+      "function_name": "hello-kitty-function-vaishnavi25",
       "handler": "main.lambda_handler",
       "log_format": null,
       "log_group_name": "${module.appcd_86ec452a-770a-59bf-87dd-67ed883e25e5.name}",
@@ -66,7 +66,7 @@
       "description": null,
       "force_detach_policies": true,
       "inline_policy": [],
-      "name": "hello-kitty-role-Vaishnavi-M-25",
+      "name": "hello-kitty-role-vaishnavi25",
       "source": "./modules/aws_iam_role",
       "tags": {
         "appstack": "hello kitty",
